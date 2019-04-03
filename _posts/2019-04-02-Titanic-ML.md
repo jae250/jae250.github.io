@@ -1,4 +1,4 @@
-# To use data files in Google Drive, I installed PyDrive in colab.
+##### To use data files in Google Drive, I installed PyDrive in colab.
 
 ```css
 
@@ -15,25 +15,25 @@ gauth.credentials = GoogleCredentials.get_application_default()
 drive = GoogleDrive(gauth)
 
 ```
-# A link will be shown. Enter verification code in the link to verfy.
+##### Enter verification code in the link to verfy.
 
 > Go to the following link in your browser:
 Enter verification code:
 
-# Download test.csv to colab account
+#####  Download test.csv to colab account
 
 ```
 file_id = '(find the file ID in google drive)'
 downloaded = drive.CreateFile({'id': file_id})
 downloaded.GetContentFile('test.csv')
 ```
-# Check out test.csv has been downloaded
+##### Check out test.csv has been downloaded
 
 ```
 !ls -al
 ```
 
-# Download train.csv
+##### Download train.csv
 
 ```
 file_id = '1yAyZ9lpqF7MpsghqO--epf_mLO464u1p'
@@ -41,7 +41,7 @@ downloaded = drive.CreateFile({'id': file_id})
 downloaded.GetContentFile('train.csv')
 ```
 
-# import panda
+##### import panda
 
 ```
 import pandas as pd
