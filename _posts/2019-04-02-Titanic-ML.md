@@ -1,4 +1,4 @@
-##### To use data files in Google Drive, I installed PyDrive in colab.
+##### To use data files in Google Drive, install PyDrive in colab.
 
 ```css
 
