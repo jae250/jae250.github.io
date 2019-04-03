@@ -28,11 +28,6 @@ file_id = 'find the file ID in google drive'
 downloaded = drive.CreateFile({'id': file_id})
 downloaded.GetContentFile('test.csv')
 ```
-##### Check out test.csv has been downloaded
-
-```
-!ls -al
-```
 
 ##### Download train.csv
 
@@ -40,6 +35,12 @@ downloaded.GetContentFile('test.csv')
 file_id = 'find the file ID in google drive'
 downloaded = drive.CreateFile({'id': file_id})
 downloaded.GetContentFile('train.csv')
+```
+
+##### Check out test.csv and train.csv have been downloaded
+
+```
+!ls -al
 ```
 
 ##### import panda
