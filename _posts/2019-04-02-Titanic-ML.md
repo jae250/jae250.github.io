@@ -18,7 +18,7 @@ drive = GoogleDrive(gauth)
 ##### Enter verification code in the link to verfy.
 
 > Go to the following link in your browser:
-Enter verification code:
+> Enter verification code:
 
 #####  Download test.csv to colab account
 
