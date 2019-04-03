@@ -18,12 +18,13 @@ drive = GoogleDrive(gauth)
 ##### Enter verification code in the link to verfy.
 
 > Go to the following link in your browser:
+
 > Enter verification code:
 
 #####  Download test.csv to colab account
 
 ```
-file_id = '(find the file ID in google drive)'
+file_id = 'find the file ID in google drive'
 downloaded = drive.CreateFile({'id': file_id})
 downloaded.GetContentFile('test.csv')
 ```
@@ -36,7 +37,7 @@ downloaded.GetContentFile('test.csv')
 ##### Download train.csv
 
 ```
-file_id = '1yAyZ9lpqF7MpsghqO--epf_mLO464u1p'
+file_id = 'find the file ID in google drive'
 downloaded = drive.CreateFile({'id': file_id})
 downloaded.GetContentFile('train.csv')
 ```
