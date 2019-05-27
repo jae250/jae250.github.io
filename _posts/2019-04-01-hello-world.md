@@ -1,3 +1,8 @@
-Hello World!
+---
+layout: post
+title: Hello World!
+tags:
+  - coding
+---
 
-tags: coding
+Hello World!

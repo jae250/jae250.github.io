@@ -1,3 +1,13 @@
+---
+layout: post
+title: Titanic ML Practice
+tags:
+  - coding
+  - Machine Learning
+---
+
+
+
 ##### To use data files in Google Drive, install PyDrive in colab.
 
 ```css
