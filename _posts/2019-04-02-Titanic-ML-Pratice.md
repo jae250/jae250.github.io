@@ -6,7 +6,7 @@
 from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
 from google.colab import auth
-from oauth2client.client import GoogleCredentials 
+from oauth2client.client import GoogleCredentials
 
 # 1. Authenticate and create the PyDrive client.
 auth.authenticate_user()
@@ -52,4 +52,4 @@ test = pd.read_csv('test.csv')
 ```
 
 
-#coding
+tags: coding
