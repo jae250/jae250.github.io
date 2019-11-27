@@ -3,17 +3,17 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kiko Now
+name: jae250
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Lessons Learned from the Journey
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/aweekj/kiko-now/master/images/jekyll-logo.png
+avatar: https://avatars2.githubusercontent.com/u/49054888?s=460&v=4
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
@@ -28,8 +28,7 @@ navigation:
     url: /archive
   - name: Tags
     url: /tags
-  - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
+
 
 # Pagination
 paginate: 5
@@ -41,7 +40,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: AWEEKJ/kiko-now
+  github: jae250
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -49,28 +48,28 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: jekyllrb
+  twitter:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2017 Kiko Now
+footer-text: (C) 2016-2019 jae250
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: # <username>.disqus.com
+disqus: jae250 # <username>.disqus.com
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-140855510-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://jae250.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl:
+baseurl: https://jae250.github.io
 
 #
 # !! You don't need to change any of the configuration flags below !!
