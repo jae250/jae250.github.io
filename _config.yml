@@ -22,13 +22,12 @@ avatar: https://avatars2.githubusercontent.com/u/49054888?s=460&v=4
 navigation:
   - name: Blog
     url: /
-  - name: About
-    url: /about
-  - name: Archive
-    url: /archive
   - name: Tags
     url: /tags
-
+  - name: Archive
+    url: /archive
+  - name: About
+    url: /about
 
 # Pagination
 paginate: 5
@@ -69,7 +68,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: 
+baseurl:
 
 #
 # !! You don't need to change any of the configuration flags below !!
