@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jae250.github.io/sitemap.xml
