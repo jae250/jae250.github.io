@@ -107,3 +107,4 @@ exclude:
   - README.md
   - CNAME
   - vendor/bundle/
+  - _draft/
