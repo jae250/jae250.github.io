@@ -3,6 +3,7 @@ layout: post
 title: Tesla Cybertruck 발표
 tags:
   - decoding
+  - automotive
 
 ---
 
