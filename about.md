@@ -8,4 +8,4 @@ jae250, explorer
 
 ### More Information
 
-the place to write down the lesssons learned from the journey.
+the place to write down the lessons learned from the journey.
